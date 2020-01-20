@@ -148,7 +148,7 @@ def build_graph(name, results, topics):
         image_files = get_image_files()
 
         for filename in image_files:
-			#newstr = starturlsource[index+len(pattern):index+len(pattern)+17]
+
             if str.find(filename, surname) != -1 and str.find(filename, forename) != -1:
                 image_file = '%s' % (filename)
 
@@ -249,6 +249,7 @@ def show_person(name=None):
     results.add(name)
 
     graph = build_graph(graph_name, results, topics)
+    # handle if graph doesn't build
     if graph is False:
         pname=name
         interests_links = get_interests_links()
