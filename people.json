@@ -1,0 +1,83 @@
+{
+
+   "Martin Callaghan": {
+     "interests": [
+       "Python",
+       "R (programming language)",
+       "Fortran",
+       "Machine learning",
+       "Deep learning",
+       "Scientific programming",
+       "Git",
+       "Teaching",
+       "Linux"
+     ],
+     "email": ["M.Callaghan@leeds.ac.uk"]
+   },
+
+   "Ollie Clark": {
+     "interests": [
+       "C (programming language)",
+       "C++",
+       "Perl",
+       "SQL" ,
+       "SQL Server",
+       "Postgres",
+       "MySQL",
+       "Web Development",
+       "HTML",
+       "CSS",
+       "Javascript",
+       "Git",
+       "SVN",
+       "Web security"
+     ],
+     "email":["O.K.Clark@leeds.ac.uk"]
+  },
+
+
+  "John Hodrien": {
+    "interests": [
+      "Linux",
+      "Cloud",
+      "C (programming language)",
+      "C++",
+      "Grid computing",
+      "Git",
+      "Puppet",
+      "Containerization"
+   ],
+   "email":["J.H.Hodrien@leeds.ac.uk"]
+  },
+
+  "Alex Coleman": {
+    "interests": [
+      "Python",
+      "R (programming language)",
+      "Machine learning",
+      "Natural language processing",
+      "Cloud",
+      "Linux",
+      "Git"
+   ],
+   "email":["A.coleman1@leeds.ac.uk"]
+  },
+
+  "Nick Rhodes": {
+    "interests": [
+      "Linux",
+      "Bash",
+      "Perl",
+      "php",
+      "Python",
+      "C (programming language)",
+      "SQL",
+      "Kanban",
+      "Agile",
+      "Git"
+   ],
+   "email":["N.G.Rhodes@leeds.ac.uk"]
+  }
+
+
+}
