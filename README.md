@@ -1,7 +1,7 @@
-
 # Leeds RSE adaptation of the RSE Skills graph
 This is a fork of the RSE Skills graph web app adapted for the Research Computing Team at Leeds.
 
+Currently worked on by Alex Coleman
 > # This is the RSE Skills Graph web app written in Python 3 with the Flask framework
 >Original code by Steve Pettifer; mods by Ian Cottam, Colin Morris, Ian Hinder;
 > The University of Manchester;
