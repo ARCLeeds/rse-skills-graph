@@ -12,8 +12,12 @@
        "Teaching",
        "Linux",
        "Software Carpentry",
+<<<<<<< HEAD
        "Test line",
        "Test line 2"
+=======
+       "Test line"
+>>>>>>> 811eef856b9ff31da677e1864c2b90ca383e59af
      ],
      "email": ["M.Callaghan@leeds.ac.uk"]
    },
